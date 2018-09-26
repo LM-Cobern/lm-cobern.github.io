@@ -1,5 +1,4 @@
 # lm-cobern.github.io
-<!DOCTYPE html>
 
 <html>
 <head>
